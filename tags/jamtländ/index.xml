@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jamtländ on Hjwk</title>
+    <link>https://hjwk.github.io/tags/jamtl%C3%A4nd/</link>
+    <description>Recent content in Jamtländ on Hjwk</description>
+    <image>
+      <title>Hjwk</title>
+      <url>https://hjwk.github.io/papermod-cover.png</url>
+      <link>https://hjwk.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hjwk.github.io/tags/jamtl%C3%A4nd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiking from Jamtländ to Vålådalen</title>
+      <link>https://hjwk.github.io/posts/jamtland/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/jamtland/</guid>
+      <description>Short multi-day hike in Sweden</description>
+    </item>
+  </channel>
+</rss>

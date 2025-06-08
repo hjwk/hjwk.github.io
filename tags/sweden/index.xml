@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sweden on Hjwk</title>
+    <link>https://hjwk.github.io/tags/sweden/</link>
+    <description>Recent content in Sweden on Hjwk</description>
+    <image>
+      <title>Hjwk</title>
+      <url>https://hjwk.github.io/papermod-cover.png</url>
+      <link>https://hjwk.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hjwk.github.io/tags/sweden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiking from Jamtländ to Vålådalen</title>
+      <link>https://hjwk.github.io/posts/jamtland/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/jamtland/</guid>
+      <description>Short multi-day hike in Sweden</description>
+    </item>
+    <item>
+      <title>Hiking the Kungsleden</title>
+      <link>https://hjwk.github.io/posts/kungsleden/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/kungsleden/</guid>
+      <description>Hiking Sweden&amp;rsquo;s most popular trail</description>
+    </item>
+    <item>
+      <title>Importing your car to Sweden</title>
+      <link>https://hjwk.github.io/posts/importing-car-sweden/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/importing-car-sweden/</guid>
+      <description>A guide to importing your car to Sweden from an EU country</description>
+    </item>
+    <item>
+      <title>My favorite places around Göteborg</title>
+      <link>https://hjwk.github.io/posts/favorites_goteborg/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/favorites_goteborg/</guid>
+      <description>My subjective list of the best attractions in and around Göteborg.</description>
+    </item>
+    <item>
+      <title>Useful apps in Sweden</title>
+      <link>https://hjwk.github.io/posts/useful-apps-sweden/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/useful-apps-sweden/</guid>
+      <description>The applications I use everyday in Sweden.</description>
+    </item>
+    <item>
+      <title>Moving to sweden</title>
+      <link>https://hjwk.github.io/posts/moving-to-sweden/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/moving-to-sweden/</guid>
+      <description>Useful things to know when preparing a move to Sweden.</description>
+    </item>
+  </channel>
+</rss>

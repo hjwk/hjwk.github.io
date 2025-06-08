@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Creality CR-10 Mini on Hjwk</title>
+    <link>https://hjwk.github.io/tags/creality-cr-10-mini/</link>
+    <description>Recent content in Creality CR-10 Mini on Hjwk</description>
+    <image>
+      <title>Hjwk</title>
+      <url>https://hjwk.github.io/papermod-cover.png</url>
+      <link>https://hjwk.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hjwk.github.io/tags/creality-cr-10-mini/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 3D printer setup</title>
+      <link>https://hjwk.github.io/posts/creality-upgrades/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/creality-upgrades/</guid>
+      <description>Essential upgrades and convenience plugins for my Creality CR-10 Mini 3D printer</description>
+    </item>
+  </channel>
+</rss>

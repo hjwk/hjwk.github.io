@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pyrenees on Hjwk</title>
+    <link>https://hjwk.github.io/tags/pyrenees/</link>
+    <description>Recent content in Pyrenees on Hjwk</description>
+    <image>
+      <title>Hjwk</title>
+      <url>https://hjwk.github.io/papermod-cover.png</url>
+      <link>https://hjwk.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hjwk.github.io/tags/pyrenees/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiking in the Pyrenees</title>
+      <link>https://hjwk.github.io/posts/pyrenees/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/pyrenees/</guid>
+      <description>Climbing five summits around Saint-Lary-Soulan</description>
+    </item>
+  </channel>
+</rss>

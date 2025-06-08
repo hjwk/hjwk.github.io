@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hjwk</title>
+    <link>https://hjwk.github.io/</link>
+    <description>Recent content on Hjwk</description>
+    <image>
+      <title>Hjwk</title>
+      <url>https://hjwk.github.io/papermod-cover.png</url>
+      <link>https://hjwk.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hjwk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiking in Argentière</title>
+      <link>https://hjwk.github.io/posts/argentiere/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/argentiere/</guid>
+      <description>Climbing five summits around the Mont Blanc</description>
+    </item>
+    <item>
+      <title>Hiking in the Pyrenees</title>
+      <link>https://hjwk.github.io/posts/pyrenees/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/pyrenees/</guid>
+      <description>Climbing five summits around Saint-Lary-Soulan</description>
+    </item>
+    <item>
+      <title>Hiking in the Julian Alps</title>
+      <link>https://hjwk.github.io/posts/slovenia/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/slovenia/</guid>
+      <description>Hiking a portion of the slovenian mountain trail</description>
+    </item>
+    <item>
+      <title>Hiking from Jamtländ to Vålådalen</title>
+      <link>https://hjwk.github.io/posts/jamtland/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/jamtland/</guid>
+      <description>Short multi-day hike in Sweden</description>
+    </item>
+    <item>
+      <title>Hiking the Kungsleden</title>
+      <link>https://hjwk.github.io/posts/kungsleden/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/kungsleden/</guid>
+      <description>Hiking Sweden&amp;rsquo;s most popular trail</description>
+    </item>
+    <item>
+      <title>Hosting your vuepress blog using GitHub Pages</title>
+      <link>https://hjwk.github.io/posts/vuepress-github-pages/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/vuepress-github-pages/</guid>
+      <description>Host your personal website for free thanks to GitHub</description>
+    </item>
+    <item>
+      <title>Importing your car to Sweden</title>
+      <link>https://hjwk.github.io/posts/importing-car-sweden/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/importing-car-sweden/</guid>
+      <description>A guide to importing your car to Sweden from an EU country</description>
+    </item>
+    <item>
+      <title>My favorite places around Göteborg</title>
+      <link>https://hjwk.github.io/posts/favorites_goteborg/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/favorites_goteborg/</guid>
+      <description>My subjective list of the best attractions in and around Göteborg.</description>
+    </item>
+    <item>
+      <title>Useful apps in Sweden</title>
+      <link>https://hjwk.github.io/posts/useful-apps-sweden/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/useful-apps-sweden/</guid>
+      <description>The applications I use everyday in Sweden.</description>
+    </item>
+    <item>
+      <title>Moving to sweden</title>
+      <link>https://hjwk.github.io/posts/moving-to-sweden/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/moving-to-sweden/</guid>
+      <description>Useful things to know when preparing a move to Sweden.</description>
+    </item>
+    <item>
+      <title>My 3D printer setup</title>
+      <link>https://hjwk.github.io/posts/creality-upgrades/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/creality-upgrades/</guid>
+      <description>Essential upgrades and convenience plugins for my Creality CR-10 Mini 3D printer</description>
+    </item>
+  </channel>
+</rss>

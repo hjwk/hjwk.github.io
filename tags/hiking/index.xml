@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hiking on Hjwk</title>
+    <link>https://hjwk.github.io/tags/hiking/</link>
+    <description>Recent content in Hiking on Hjwk</description>
+    <image>
+      <title>Hjwk</title>
+      <url>https://hjwk.github.io/papermod-cover.png</url>
+      <link>https://hjwk.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hjwk.github.io/tags/hiking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiking in Argentière</title>
+      <link>https://hjwk.github.io/posts/argentiere/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/argentiere/</guid>
+      <description>Climbing five summits around the Mont Blanc</description>
+    </item>
+    <item>
+      <title>Hiking in the Pyrenees</title>
+      <link>https://hjwk.github.io/posts/pyrenees/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/pyrenees/</guid>
+      <description>Climbing five summits around Saint-Lary-Soulan</description>
+    </item>
+    <item>
+      <title>Hiking in the Julian Alps</title>
+      <link>https://hjwk.github.io/posts/slovenia/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/slovenia/</guid>
+      <description>Hiking a portion of the slovenian mountain trail</description>
+    </item>
+    <item>
+      <title>Hiking from Jamtländ to Vålådalen</title>
+      <link>https://hjwk.github.io/posts/jamtland/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/jamtland/</guid>
+      <description>Short multi-day hike in Sweden</description>
+    </item>
+    <item>
+      <title>Hiking the Kungsleden</title>
+      <link>https://hjwk.github.io/posts/kungsleden/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/kungsleden/</guid>
+      <description>Hiking Sweden&amp;rsquo;s most popular trail</description>
+    </item>
+    <item>
+      <title>My favorite places around Göteborg</title>
+      <link>https://hjwk.github.io/posts/favorites_goteborg/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/favorites_goteborg/</guid>
+      <description>My subjective list of the best attractions in and around Göteborg.</description>
+    </item>
+  </channel>
+</rss>

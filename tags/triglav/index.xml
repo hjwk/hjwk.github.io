@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Triglav on Hjwk</title>
+    <link>https://hjwk.github.io/tags/triglav/</link>
+    <description>Recent content in Triglav on Hjwk</description>
+    <image>
+      <title>Hjwk</title>
+      <url>https://hjwk.github.io/papermod-cover.png</url>
+      <link>https://hjwk.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hjwk.github.io/tags/triglav/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiking in the Julian Alps</title>
+      <link>https://hjwk.github.io/posts/slovenia/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://hjwk.github.io/posts/slovenia/</guid>
+      <description>Hiking a portion of the slovenian mountain trail</description>
+    </item>
+  </channel>
+</rss>
